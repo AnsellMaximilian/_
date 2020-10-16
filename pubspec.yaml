@@ -22,6 +22,8 @@ environment:
 
 dependencies:
   flutter:
+    assets:
+      - assets/
     sdk: flutter
 
 

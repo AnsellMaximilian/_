@@ -1,16 +1,15 @@
-# flutter_gallery
+# Gallery Flutter [Ansell Maximilian](https://github.com/AnsellMaximilian)
 
-A new Flutter project.
+Ketentuan:
+1. Terdapat minimal 2 halaman (utama dan detail).
+2. Menggunakan widget GridView pada halaman utama untuk menampilkan data berupa gambar (minimal 10 data).
+3. Ketika item di klik akan berpindah ke halaman Detail dan menampilkan data sesuai item yang di klik.
+4. Pada halaman Detail minimal terdapat widget Image dan Text.
+5. Gambar boleh berupa Image Assets maupun Image Network.
+6. Aplikasi bertemakan tentang covid .
+4. Edit file README.MD dengan yang sudah di tentukan.
+5. Upload project tersebut ke dalam Github, kirim tugas berupa link repository tersebut.
 
-## Getting Started
+## Gambar
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![test](/assets/test.png)
